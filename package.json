@@ -1,6 +1,6 @@
 {
   "name": "ssdp",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A SSDP implementation for node.",
   "main": "index.js",
   "scripts": {
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/BYossarian/ssdp/issues"
   },
-  "homepage": "https://github.com/BYossarian/ssdp",
-  "dependencies": {
-    "node-httpu": "git://github.com/BYossarian/node-httpu"
-  }
+  "homepage": "https://github.com/BYossarian/ssdp"
 }
